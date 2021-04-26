@@ -1,11 +1,11 @@
-## TITLE
+# TITLE
 DESCRIPTION
 
-# Sophia Turner
+## Sophia Turner
 Responsibilities: 
 
-# Alan Pham
+## Alan Pham
 Responsibilities: 
 
-# Jamerson Kent
+## Jamerson Kent
 Responsibilities: 
