@@ -9,3 +9,7 @@ Responsibilities:
 
 ## Jamerson Kent
 Responsibilities: 
+
+## Class Diagram
+
+## GUI Mockup
