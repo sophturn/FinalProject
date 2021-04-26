@@ -1,13 +1,15 @@
 # TITLE
 DESCRIPTION
 
-## Sophia Turner
+## Members
+
+### Sophia Turner
 Responsibilities: 
 
-## Alan Pham
+### Alan Pham
 Responsibilities: 
 
-## Jamerson Kent
+### Jamerson Kent
 Responsibilities: 
 
 ## Class Diagram
