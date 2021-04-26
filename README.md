@@ -1,7 +1,7 @@
 # TITLE
 DESCRIPTION
 
-## Members
+## Contributers
 
 ### Sophia Turner
 Responsibilities: 
