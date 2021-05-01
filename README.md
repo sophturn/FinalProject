@@ -4,13 +4,13 @@ DESCRIPTION
 ## Contributers
 
 ### Sophia Turner
-Responsibilities: 
+Responsibilities: choice web
 
 ### Alan Pham
-Responsibilities: 
+Responsibilities: arch
 
 ### Jamerson Kent
-Responsibilities: 
+Responsibilities: story
 
 ## Class Diagram
 
