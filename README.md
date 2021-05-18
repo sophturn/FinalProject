@@ -17,3 +17,4 @@ Responsibilities: story
 ## GUI Mockup
 
 ## Choice Web
+![Image of Choice Web](https://github.com/sophturn/FinalProject/blob/main/images/choiceweb.pdf)
