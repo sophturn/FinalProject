@@ -1,7 +1,7 @@
 #Sophia Turner
 import random
 import time
-class Kennen:
+class MeisterBeast:
   #member variables
   hp = 10
   exp = 0
@@ -16,7 +16,7 @@ class Kennen:
     #print('You did ', self.basicDamage, ' damage!')
   #def specialAttack2(self):
     #damage = self.specialDamage
-    #print('You did ', self.specialDamage, ' Electric damage!')
+    #print('You did ', self.specialDamage, ' Critical damage!')
   #def heal(self):
     #regain = self.hpRegain
     #print('You regained ', self.hpRegain, ' health!')
